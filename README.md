@@ -28,3 +28,12 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     - Tom is referring to the model of big manufacturing and the model of open source schematic sharing.
 - It is defeinitely encouraging to see communities being open to newcomers and everyone helping each other develop thei skills and products.
 - Where should the line be drawn for what kind of schematics should be open source?
+
+## Week 2
+
+### Context
+
+- The article "The Internet of Things: Roadmap to a Connected World" by Sanjay Sarma discusses how quickly the number of interconnected devices across the world has grown.  Sanjay believes that in order to have better structure for all these devices there must be an "agreement on system architecture", "development on open standards reflecting the best architectural choices", and the "creation of a 'test bed'".  The article "The Internet of Things has a dirty little secret: it's not really yours" by Internet of Shit discusses the grim modern reality of how every device is becoming a "smart" device that is connected to the internet.  Despite being supposedly "smart", these devices are usually less reliable and last for a shorter amount of time than their "dumb" counterparts.
+- "What we really need from those building the Internet of Things is commitment." -Internet of Shit
+- Both aurthors clearly have concerns with the current state of the Internet of Things, but they also are optimistic for the future.
+- At what point will consumers begin to draw the line for what products they want connected to the internet?
