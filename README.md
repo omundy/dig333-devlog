@@ -37,3 +37,46 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - "What we really need from those building the Internet of Things is commitment." -Internet of Shit
 - Both aurthors clearly have concerns with the current state of the Internet of Things, but they also are optimistic for the future.
 - At what point will consumers begin to draw the line for what products they want connected to the internet?
+
+### Experiments
+
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+1. Taste the Power!
+    1. ![Tasting the power](./taste_the_power.jpg)
+    1. Lower resistance means a higher current
+    1. Why does the current increase when the probes are farther apart.
+1. Let's Abuse a Battery!
+    1. Notes
+        1. Flow of electicity per second is measured in amperes
+        1. Pressure of elctricity that causes the flow is measured in volts
+        1. Resistance to flow is measured in ohms
+        1. A higher resitance restricst current
+        1. A higher voltage is better able to overcome resistance
+        1. Current from a battery is DC 
+            1. DC current flows in one direction
+        1. Current from wall outlets is AC current
+            1. AC current has a pulsing flow
+    1. The relationship of vlotage, resistance, and current
+    1. Why did we not feel any heat on our tongue in the first experiemtn?
+1. Your First Circuit
+    1. Notes
+        1. Resistors
+            1. First two stripes are the digits
+            1. Third stripe is what order of magnitude
+            1. Fourth strip is tolerance, or accuracy
+        1. LEDs
+            1. forward voltage is the max voltage an LED can receive
+            1. forward current is the max current that can pass through an LED
+        1. ![My First Circuit](./experiment3.jpg)
+    1. Learned the basics of setting up a circuit
+    1. How could we make the LED brighter with only changing one thing?
+1. Variable Resistance
+    1. Notes
+        1. A potentiometer works by having a wiper rub against a resistant material as it is turned
+        1. Using one instead of a static resistor provides variable resistance which enables us to dim and brighten our LED 
+        1. Potential difference is the voltage between two points
+        1. ![Circuit with variable resistance](./variableRes.jpg)
+        1. Ohm's Law: v = I x R
+        1. Resistor's in series double resistance while resistors in parallel halve it
+        1. watts = volts x amps    
