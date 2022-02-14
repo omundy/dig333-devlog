@@ -1,15 +1,19 @@
 [<](README.md)
 
+<!-- COPY / USE THIS TEMPLATE FOR EACH WEEK -->
+
+
 
 # Week 00
 
 
-## Articles
+## Context
 
 Author, Article (year)
-- Quotes:
-- Comments:
-- Questions:
+- Summary:
+- Quote:
+- Comment:
+- Question:
 
 
 
@@ -18,9 +22,9 @@ Author, Article (year)
 ## Experiments
 
 
-### Experiment Name
+### Experiment #: Name
 
-#### Outcomes
+#### Outcomes & Takeaways
 -
 
 #### Comments & Variations

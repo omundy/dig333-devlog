@@ -7,7 +7,8 @@
 ## Articles
 
 Tom Igoe [Physicality and Conviviality](http://www.youtube.com/watch?v=fi4mN-Oicos) (15:17) talks about the origins of the ITP program and the Arduino.
-- Quote: The ITP program emerged to give people more control over media and computing.
+- Summary: The ITP program emerged to give people more control over media and computing.
+- Quote: 
 - Comment: It's great that the Arduino is still open source. I think that is a big reason why it is still successful. I love the idea of using mud to work PowerPoint!
 - If high performance technology is accessible to everyone, then how do we ensure such electronics are not being used for harm?
 

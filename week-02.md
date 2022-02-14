@@ -7,17 +7,22 @@
 ## Articles
 
 Sanjay Sarma, [The Internet of Things: Roadmap to a Connected World](https://www.technologyreview.com/s/601013/the-internet-of-things-roadmap-to-a-connected-world/) (2016)
-- Sarma writes about “The Internet of Things (IoT)—a sophisticated network of objects embedded with electronic systems that enable them to collect and exchange data”
-- “The rapidly increasing number of interconnected devices and systems today brings both benefits and concerns.” - Although he doesn't list many concerns...
-- “What if every vehicle, home appliance, heating system and light switch were connected to the Internet?” - This sounds awful to me. 😱
+- Summary: Sarma writes about “The Internet of Things (IoT)—a sophisticated network of objects embedded with electronic systems that enable them to collect and exchange data”
+- Quote: “The rapidly increasing number of interconnected devices and systems today brings both benefits and concerns.” - Although he doesn't list many concerns...
+- Comment: “What if every vehicle, home appliance, heating system and light switch were connected to the Internet?” - This sounds awful to me. 😱
+- Question: What has changed since this article?
 
 Internet of Shit, [The Internet of Things has a dirty little secret: it's not really yours](https://www.theverge.com/circuitbreaker/2016/7/12/12159766/internet-of-things-iot-internet-of-shit-twitter) (2016)
-- reliability: "dumb" devices just work. If the internet goes down, they still work. No upgrades needed.
-- trendiness: e.g. Google might sell the Nest to a smaller company
-- long term support: they should, as the author says, last longer than myspace was in vogue
-- cost: The smaller company could cut support for old devices unless you upgrade your device or plan
-- privacy: the new owner could monetize *you* by selling the information they have you?
-- further monetization: They could make you look @ ads to use the thing.
+- Summary:
+    - reliability: "dumb" devices just work. If the internet goes down, they still work. No upgrades needed.
+    - trendiness: e.g. Google might sell the Nest to a smaller company
+    - long term support: they should, as the author says, last longer than myspace was in vogue
+    - cost: The smaller company could cut support for old devices unless you upgrade your device or plan
+    - privacy: the new owner could monetize *you* by selling the information they have you?
+    - further monetization: They could make you look @ ads to use the thing.
+- Quote:
+- Comment:
+- Question: 
 
 
 
@@ -57,7 +62,7 @@ Internet of Shit, [The Internet of Things has a dirty little secret: it's not re
 ### Platt 3: Your First Circuit
 
 #### Outcomes
-- I learned how to use a multimeter to measure Ohms
+- How to use Ohm's Law
 
 #### Comments & Variations
 

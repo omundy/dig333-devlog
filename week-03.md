@@ -7,9 +7,10 @@
 ## Articles
 
 Author, Article (year)
-- Quotes:
-- Comments:
-- Questions:
+- Summary:
+- Quote:
+- Comment:
+- Question:
 
 
 
