@@ -9,7 +9,7 @@ Week [01](week-01.md) | [02](week-02.md) | [03](week-03.md) | [04](week-04.md) |
 
 ## Instructions
 
-1. Duplicate the `week-00.md` file, changing the name and heading to match the current week
+1. Duplicate the `week-00.md` "template" file, changing the name and heading to match the current week number.
 1. Summarize each article/video in 3-4 sentences. Include...
     1. A short summary
     1. A quote from the reading
