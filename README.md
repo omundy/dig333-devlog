@@ -79,4 +79,37 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
         1. ![Circuit with variable resistance](./variableRes.jpg)
         1. Ohm's Law: v = I x R
         1. Resistor's in series double resistance while resistors in parallel halve it
-        1. watts = volts x amps    
+        1. watts = volts x amps   
+
+## Week 3
+
+### Context
+
+- The "Critical Engineering Maifesto" is exactly as it sounds, a list of rules for all critical engineers to follow.  Rule number 4 seems the most interesting since it pushes engineers to think of the ethical implications of their work.  The "Artist Profile: Julian Oliver" gives an in depth interview of one of the writers of the manifesto.  He has made some interesting projects including a Transparency Grenade, which looks like a Grenade, but instead of an explosion it hacks into nearby systems and leaks the data.  "All Watched Over By Machines of Loving Grace" documents how the philosohy of Ayn Rand affected the economy in America.  Randians believed that with the aid of computer technology, people could be truly free.
+- "We think through tools both before and while we use them and the more we depend upon a tool the more we are changed by it." - Julian Oliver
+- I find it really interesting how economists and politicians believed in the power of computers to stabilize the economy in a way that borders on almost religious faith.
+- How do we form better practices to create with ethics in mind?
+
+
+### Experiments
+
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+1. Name of the experiment
+    1. Text, photos, etc.
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+1. Very Simple Switching
+    1. Notes
+        1. 
+    1. Describe the most important thing you learned (to share in class)
+    1. Write a quiz question (which we will discuss in class)
+
+## Week 4
+
+### Context
+- Philip K. Dick's *Pay For The Printer* takes place in the post-apacalypse where an alien species that is able to copy objects tries to save humanity.  *The Preserving Machine* by the same author is about an invention that turns music sheets into living creatures.  Of course this goes horribly wrong when the creatures begin to evolve.  The second part of Adam Curtis' documentary *All Watched Over by Machines of Loving Grace* documents the height of the theory of balance in ecology as well as cybernetics.
+- "Cybernetics sees human beings not as individuals, but as components in a system"
+- All three of the material from this week's context reminds me of black boxes.  Expecially the Philip K. Dick stories.
+- When does using black boxes become problematic?
