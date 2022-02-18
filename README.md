@@ -42,6 +42,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
+#### Monk
+
 1. Taste the Power!
     1. ![Tasting the power](./taste_the_power.jpg)
     1. Lower resistance means a higher current
@@ -81,6 +83,38 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
         1. Resistor's in series double resistance while resistors in parallel halve it
         1. watts = volts x amps   
 
+#### Platt Chapter 1
+
+1. Selecting a Model
+    - model 4 is good for desktop replacement
+    - model 3B+ is good for general use
+    - models 3B, 2B, 3A+, Zero and Zero W are smaller, but don't have wifi
+1. 
+3. Enclosing a Raspberry Pi
+    - enclosing is important to protect it from short circuiting
+4. Selecting a Power Supply
+    - 1A minimum
+5. Selecting an Operating System
+    - different operating systems for different use cases
+1. 
+1. Installing an Operating System With NOOBS
+    - avoid preinstalled images in order to get all the benefits of raspberry pi os
+1. 
+1. 
+1. 
+1. 
+1. Using a Composite Video Monitor/TV
+    - HDMI and composite video outputs
+        - HDMI is better quality
+1. 
+1. Maximizing Performance
+    - overclocking makes it faster, but also consumes more power and run hotter
+1. 
+1. Shutting Down Your Raspberry Pi
+    - pulling the plug can cause file corruption unlike shutting down
+ 
+
+
 ## Week 3
 
 ### Context
@@ -94,7 +128,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Experiments
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
-
+#### Monk
 1. Name of the experiment
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
@@ -105,7 +139,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
         1. 
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
-
+#### Platt Chapter 2
+    
 ## Week 4
 
 ### Context
