@@ -168,3 +168,84 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - "Cybernetics sees human beings not as individuals, but as components in a system"
 - All three of the material from this week's context reminds me of black boxes.  Especially the Philip K. Dick stories.
 - When does using black boxes become problematic?
+
+### Experiments
+
+#### Monk Chapter 3
+
+1. Browsing Files Graphically
+    - Typical graphical file system interface 
+2. Copying Files onto a USB Flash Drive
+    - drag files into USB folder or cp in command line
+3. Starting a Terminal Session
+    - can open from desktop
+4. Navigating the Filesystem Using a Terminal
+    - prompt: command to give a parameter
+    - path: file path between directories
+    - root: the root directory
+    - home: the default directory of the terminal
+    - ~: representation of home directory
+    - cd: navigate
+    - ls: list all files and folders in current directory
+    - pwd: show path from home to current directory
+5. Copying a File or Folder
+    - cntrl+c or cp in terminal
+6. Renaming a File or Folder
+    - ```mv my_file.txt my_file.rtf```
+7. Editing a File
+    - ```nano my_file```
+    - <em>Ctrl-X</em> : exit
+    - <em>Ctrl-Y</em> : next page
+    - <em>Ctrl-W</em> : previous page
+    - <em>Ctrl-O</em>: write
+8. Viewing the Contents of a File
+    - ```cat```
+        - whole file
+    - ```more```
+        - one page at a time
+9. Creating a File Without Using an Editor
+    - ```echo "contents here" > test.txt```
+10. Creating a Directory
+    - ```mkdir mydirectory```
+11. Deleting a File or Directory
+    - ```rm my_file.txt```
+    - ```rm -r my_directory```
+12. Performing Tasks with Superuser Privleges
+    - ```sudo reboot```
+13. Understanding File Permissions
+    - ```ls -l```
+    - read, write, executable
+    - Permissions Block
+        - Type
+        - Owner
+        - Group
+        - Other
+14. Changing File Permissions
+    - ```chmod u+x file2.txt```
+    - need to edit or execute a file you currently don't have permission for
+15. 
+16. Making a Screen Capture
+    - ```scrot -d 5```
+    - ```scrot -s```
+17. Installing Software with apt-get
+    - ```sudo apt-get install <name of software>```
+18. Removing Installed Software with apt-get
+    - ```sudo apt-get remove <software>```
+    - ```sduo apt-get autoremove <software>```
+    - ```sudo apt-get clean```
+19. Installing Python Packages with Pip
+    - ```sudo pip install svgwrite```
+20. Fetching Files from the Command Line
+    - ```wget url_here```
+21. Fetching Source Code with Git
+    - ```git clone repository_url```
+    - ```python file.py```
+    - ```git remote add origin url_here```
+    - ```git add .```
+    - ```git commit -m "my commit"```
+    - ```git push origin main```
+22. Fetching This Book's Accompanying Code
+    - ```git clone book_github_url```
+    - ```unzip file.zip -d destination_folder```
+
+    
