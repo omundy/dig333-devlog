@@ -42,7 +42,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-#### Monk
+#### Platt Chapter 1
 
 1. Taste the Power!
     1. ![Tasting the power](./taste_the_power.jpg)
@@ -83,7 +83,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
         1. Resistor's in series double resistance while resistors in parallel halve it
         1. watts = volts x amps   
 
-#### Platt Chapter 1
+#### Monk Chapter 1
 
 1. Selecting a Model
     - model 4 is good for desktop replacement
@@ -128,18 +128,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 ### Experiments
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
-#### Monk
-1. Name of the experiment
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
 
-1. Very Simple Switching
-    1. Notes
-        1. 
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-#### Platt Chapter 2
+#### Monk Chapter 2
 1. Connecting to a Wired Network
     - ssh pi@bradypi
 2. Finding Your IP Address
