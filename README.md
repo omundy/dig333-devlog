@@ -140,7 +140,37 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
 #### Platt Chapter 2
-    
+1. Connecting to a Wired Network
+    - ssh pi@bradypi
+2. Finding Your IP Address
+    - hostname -I
+    -ipconfig
+3. 
+4. Setting the Network Name of a Raspberry Pi
+    - configuration tool
+        - menu -> preferences -> Raspberry Pi Configuration
+    - command line
+        - sudo raspi-config
+         - Network Options
+5. Setting Up a Wireless Connection
+    - from Desktop
+    - command line
+        - sudo raspi-config
+             - Network Options -> WiFi
+6. Connecting With A Console Lead
+    - Menu -> Preferences -> Raspberry Pi Configuration -> Interfaces
+        - click enabled button for Serial Port
+    - sudo raspi-config
+        - Interfacing Options -> Serial
+    - need to install Putty for Windows
+7. Controlling the Pi Remotely with SSH
+    - ssh pi@<strong>you_pi_name_here</strong>
+    - ls
+        - list all sub directories and files
+    - cd
+        - move to next or previous directory
+    - code
+        - open directory in visual studio code
 ## Week 4
 
 ### Context
