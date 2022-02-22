@@ -42,7 +42,7 @@ SPST (1P1T) | single-pole, single-throw switch | on-off | Light switches in your
 DPST (2P1T) | double-pole, single-throw switch | on-off | To control a 240-volt appliance in your house
 SPDT (1P2T) | single-pole, double-throw switch | on-on | A basic on/off toggle switch
 DPDT (2P2T) | double-pole, double-throw switch | on-on | Toggle switch with two poles, often used in AC power or to control a DC motor
-SPST (1P1T) | single-pole, single-throw pushbutton | off-(on) | A  "momentary" switch that is on only when held down, and flips back to off when released.
+SPST (1P1T) | single-pole, single-throw pushbutton | off-(on) | A  "momentary" switch that is (on only when held down), and flips back to off when released.
 
 - **toggle**: the part of a switch that you flip with your finger
 - **pole**: center terminal of a double-through (DT) switch
@@ -64,8 +64,13 @@ SPST (1P1T) | single-pole, single-throw pushbutton | off-(on) | A  "momentary" s
 
 ### Platt 7: Investigating a Relay
 
+<video width="640" height="480" controls>
+    <source src="assets/video/20220221-relay-click.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 #### Outcomes
--
+- I learned that [relays in Tinkercad show the switch circuitry moving when you power the coil](https://www.tinkercad.com/things/0FwQG7Kjtmb)!
 
 #### Comments & Variations
 -
