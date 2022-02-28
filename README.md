@@ -280,7 +280,7 @@
         - Set voltage: minimum required voltage
         - operating current: power consumption of the coil when energized
         - switching capacity: maximum amount of current that can be switched
-./experiment7.mp4
+        - ![](experiment7.gif)
     2. how a relay works
     3. Why does switching the leads change how the multimeter beeps?
 8. A Relay Oscillator
@@ -289,7 +289,6 @@
         - storage ability of capacitors measured in farads
         - large charged capacitors can be very dangerous
         - capacitors that are plugged in wrong can explode
-./experiment8.mp4
     2. how to use a breadbord
     3. What are some basic trouble shooting steps for circuitry? 
 9. Time and Capacitors
@@ -303,6 +302,6 @@
 10. Transistor Switching
     1. Notes
         - A transistor controls a flow of current with a small flow of current
-./experiment10.mp4
+        - ![](experiment10.gif)
     2. Transistor Basics
     3. What were the origins of the transistor?
