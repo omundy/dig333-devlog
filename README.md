@@ -261,3 +261,48 @@
 - "Its okay to harm yourself so long as you harm people distantly related to you"
 - There is definitely some truth that people favor family over strangers, but I don't think most people are willing to kill for that chance that it may give their family an advantage.
 - Is there still meaning to our choices if free will doesn't exits
+
+<h3>Experiments</h3>
+
+<h4>Platt Chapter 2</h4>
+
+6. Very Simple Switching
+    1. Notes
+        - We used a single-pole, single-throw switch or SPST
+        - circuit schematics
+    2. Simple schematics
+    3. What is the conventional way to show two wire crossing but not connecting?
+7. Investigating a Relay
+    1. Notes
+        - relays are controlled by a low voltage or small current and switches to a larger voltage or higher current
+        - relay works when the magnetic coil inside is charged which then creates a magnetic field that connects switches
+        - coil voltage: voltage supposed to receive to energize it
+        - Set voltage: minimum required voltage
+        - operating current: power consumption of the coil when energized
+        - switching capacity: maximum amount of current that can be switched
+./experiment7.mp4
+    2. how a relay works
+    3. Why does switching the leads change how the multimeter beeps?
+8. A Relay Oscillator
+    1. Notes
+        - capacitors are like tiny rechargeable batteries
+        - storage ability of capacitors measured in farads
+        - large charged capacitors can be very dangerous
+        - capacitors that are plugged in wrong can explode
+./experiment8.mp4
+    2. how to use a breadbord
+    3. What are some basic trouble shooting steps for circuitry? 
+9. Time and Capacitors
+    1. Notes
+        - RC Network
+            - T = R x C
+            - charges in constants of 63%
+            - AFter five time constants we consider it charged
+    2. RC Netork
+    3. What is displacement current?
+10. Transistor Switching
+    1. Notes
+        - A transistor controls a flow of current with a small flow of current
+./experiment10.mp4
+    2. Transistor Basics
+    3. What were the origins of the transistor?
