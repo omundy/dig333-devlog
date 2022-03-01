@@ -8,10 +8,19 @@
 
 Tom Igoe [Physicality and Conviviality](http://www.youtube.com/watch?v=fi4mN-Oicos) (15:17) talks about the origins of the ITP program and the Arduino.
 - Summary: The ITP program emerged to give people more control over media and computing.
-- Quote: 
+- Quote:
 - Comment: It's great that the Arduino is still open source. I think that is a big reason why it is still successful. I love the idea of using mud to work PowerPoint!
 - If high performance technology is accessible to everyone, then how do we ensure such electronics are not being used for harm?
 
+
+
+<img src="assets/img/2022-01-17-FTDI-232-issues-1.png">
+<img src="assets/img/2022-01-17-FTDI-232-issues-2.png">
+
+Some evidence that there are possibly ways to get the FTDI to work on M1 Apple Silicon but they were short lived, and I could only program it once before it stopped working.
+
+
+<img width=700 src="assets/img/2022-01-17-rpi-to-rescue.jpg">
 
 
 

@@ -22,7 +22,7 @@ Internet of Shit, [The Internet of Things has a dirty little secret: it's not re
     - further monetization: They could make you look @ ads to use the thing.
 - Quote:
 - Comment:
-- Question: 
+- Question:
 
 
 
@@ -84,9 +84,16 @@ Internet of Shit, [The Internet of Things has a dirty little secret: it's not re
 
 #### Comments & Variations
 - Ohm's Law: R = V / I
+    - e.g. a red LED with 2V forward voltage ("drop") and 20mA forward current
+    - R = (5V (power supply) - 2V) / 20mA
+    - R = 3V / .02A = 150 Ω
+
+<img height=200 src="assets/img/platt-ex04-red-led-ohms-law.png">
+
+https://ledcalculator.net/#p=5&v=2&c=20&n=1&o=w
 
 #### Questions
-- "How could we make the LED brighter with only changing one thing?" (Brady)
+- "How could we make the LED brighter by only changing one thing?" (Brady)
 
 
 

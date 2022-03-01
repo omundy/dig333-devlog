@@ -16,7 +16,8 @@ Week [01](week-01.md) | [02](week-02.md) | [03](week-03.md) | [04](week-04.md) |
     1. A comment on the reading(s)
     1. A related follow-up question (what question does it bring up for you?)
 1. List each Platt experiment / Monk recipe outcome and show your work:
-    1. Outcomes & Takeaways (including text, photos, schematics, captions, etc.) describing the most important things you learned
+    1. Summary (what are the main ideas?)
+    1. Outcomes (including text, photos, schematics, captions, etc.) describing the most important things you learned
     1. Comments & Variations
     1. Questions: What concepts would you like to see clarified or explained more thoroughly?
 
