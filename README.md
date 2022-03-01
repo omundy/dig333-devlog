@@ -305,3 +305,21 @@
         - ![](experiment10.gif)
     2. Transistor Basics
     3. What were the origins of the transistor?
+
+## Week 6
+
+<h3>Context</h3>
+
+<h4>Igloo White</h4>
+
+- Military operation to use detectors during the Vietnam war to detect enemy movement.  "Did it work?  Unquestionably, the sensors detected tens of thousands of trucks, and the strike aircraft destroyed many of them."  Its interesting to see how technology is adapted for use in war.  What information gathering technology is used for war today?
+
+<h4>Unseen Sensors: Constantly Sensing but Rarely Seen</h4>
+
+- Urban life is teeming with many small hidden sensors.  These sense and record the small details that happen during city life.  "Our future won’t arrive in a sweeping,
+clearly defined transformation represented by an inevitably shiny rendering or
+seductively simple diagram, even if those are the futures that make headlines.
+Rather these changes happen incrementally, infiltrating our everyday bit by bit
+as technology falls in price and grows in utility, availability, and reliability, and
+becomes socially and politically palatable.
+"  I wonder if people will start taking more notice of these sensors and how they inform decisions that shape our lives.  What is the next step for hidden sensors?
