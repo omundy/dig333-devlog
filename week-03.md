@@ -125,7 +125,7 @@ Platt has a great checklist for checking for faults:
 #### Comments & Variations
 - I tried several capacitors with the G5SB-14 relay + 5V because I wanted to confirm that total capacitance of capacitors in parallel did indeed = the total of all of them.
 
-See this [youtube video]() and [simulation on Tinkercad](https://www.tinkercad.com/things/e08cNkkNlyV)
+See this [youtube video](https://youtu.be/aVX_UbLA70s) and [simulation on Tinkercad](https://www.tinkercad.com/things/e08cNkkNlyV)
 
 1. capacitor(s) = 220μF x1
 1. capacitor(s) = n/a
