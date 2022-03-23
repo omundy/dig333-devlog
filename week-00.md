@@ -7,8 +7,6 @@
 # Week 00
 
 
-
-
 ## Context
 
 Author, Article (year)
@@ -24,9 +22,12 @@ Author, Article (year)
 ## Experiments
 
 
-### Experiment #: Name
+### Experiment # - Name
 
-#### Outcomes & Takeaways
+#### Summary
+-
+
+#### Outcomes
 -
 
 #### Comments & Variations
