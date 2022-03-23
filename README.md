@@ -10,15 +10,4 @@ Week [01](week-01.md) | [02](week-02.md) | [03](week-03.md) | [04](week-04.md) |
 ## Instructions
 
 1. Duplicate the `week-00.md` file, changing the name and heading to match the current week
-1. Summarize each article/video in 3-4 sentences. Include...
-    1. A short summary
-    1. A quote from the reading
-    1. A comment on the reading(s)
-    1. A related follow-up question (what question does it bring up for you?)
-1. List each Platt experiment / Monk recipe outcome and show your work:
-    1. Summary (what are the main ideas?)
-    1. Outcomes (including text, photos, schematics, captions, etc.) describing the most important things you learned
-    1. Comments & Variations
-    1. Questions: What concepts would you like to see clarified or explained more thoroughly?
-
-We will discuss these in class. See [Assignment](https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit)
+1. See [Assignments](https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit) for prompts.
