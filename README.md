@@ -323,3 +323,8 @@ Rather these changes happen incrementally, infiltrating our everyday bit by bit
 as technology falls in price and grows in utility, availability, and reliability, and
 becomes socially and politically palatable.
 "  I wonder if people will start taking more notice of these sensors and how they inform decisions that shape our lives.  What is the next step for hidden sensors?
+
+<h3>Experiments</h3>
+
+<h4>Platt Chapter 3</h4>
+
