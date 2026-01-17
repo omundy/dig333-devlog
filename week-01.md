@@ -14,10 +14,12 @@
 
 > Link to your (publicly-accessible) https://tinkercad.com file
 
- that uses Ohm's law to find the resistor value and
+2\. Share the math you did that uses Ohm's law to find the resistor value and
+
+> Your response
 
 
-2. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in Pearson. 
+3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in Pearson. 
 
 > Write a comment on one of Pearson's phrases that speaks to you.
 
@@ -48,31 +50,14 @@
 
 
 
-## Context
 
-Author, Article (year)
-- Summary:
-- Quote:
-- Comment:
-- Question:
+
+## Other experiments
+
+- 
 
 
 
+## Questions to bring up in class
 
-
-## Experiments
-
-
-### Experiment # - Name
-
-#### Summary
--
-
-#### Outcomes
--
-
-#### Comments & Variations
--
-
-#### Questions
--
+- 
