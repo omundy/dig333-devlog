@@ -16,7 +16,7 @@
 
 3. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced in this chapter. Identify one genre that influences your current musical listening habits. 
 
-4. Watch this introduction to Synthesizing with Moog | Lesson 1: Listening (15:33) and describe one of Robert Moog's contributions to electronic music.
+4. Watch this introduction to [Synthesizing with Moog](https://www.youtube.com/watch?v=waN4owHeyaQ) (15:33) and describe one of Robert Moog's contributions to electronic music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waN4owHeyaQ?si=d4Lc3SgvF8frKHgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
