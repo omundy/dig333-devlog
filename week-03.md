@@ -72,6 +72,16 @@ SPST (1P1T) | single-pole, single-throw pushbutton | off-(on) | A  "momentary" s
     Your browser does not support the video tag.
 </video>
 
+<video width="640" height="480" controls>
+    <source src="assets/video/20220420-oscillator-relay.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
+
+
+
+
 #### Summary
 
 Create a basic relay circuit.
