@@ -61,7 +61,8 @@ https://stackoverflow.com/a/50916345/441878
 
 
 8\. Fork this repository into your own Github account and enable Github Pages.
-9\. Paste the public link (the live github.io URL) to this DevLog below.
+
+9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
 > Your response.
 
@@ -74,10 +75,18 @@ https://stackoverflow.com/a/50916345/441878
 
 ## Other experiments
 
+<!-- 
+Share details about other electronic experiments you are working on this week?
+-->
+
 - 
 
 
 
 ## Questions to bring up in class
+
+<!-- 
+Share questions you would like to bring up in class.
+-->
 
 - 
