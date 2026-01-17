@@ -1,9 +1,8 @@
 [<](README.md)
 
-
-
-
 # Week 01
+
+
 
 
 ## Outcomes 
@@ -15,45 +14,59 @@ https://stackoverflow.com/a/50916345/441878
 
 
 
-1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad link to it here.
+1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
 > Link to your (publicly-accessible) https://tinkercad.com file
 
-2\. Share your maths using Ohm's law to find the resistor value.
+2\. Share your maths using Ohm's law to find the resistor value for your Tinkercad circuit.
 
 > Your response
 
 
-3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in Pearson. Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
+3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf?srsltid=AfmBOoq4GO2jJvBqGwuOg_GRLhhusTVfQubcPO9hBxBkzfku_NrFVPZW) by Pearson. Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
 > Your response.
 
 
 
-3. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced in this chapter. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
+4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
 > Your response.
 
-4. Watch this introduction to [Synthesizing with Moog](https://www.youtube.com/watch?v=waN4owHeyaQ) (15:33) and describe one of Robert Moog's contributions to electronic music.
+
+
+5\. Watch this introduction to [Synthesizing with Moog](https://www.youtube.com/watch?v=waN4owHeyaQ) (15:33). Describe one of Robert Moog's contributions to electronic music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waN4owHeyaQ?si=d4Lc3SgvF8frKHgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Your response.
 
-5. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common?
+
+
+6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
 > Your response.
 
-6. Explore cinematic scores created by Wendy Carlos using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
+
+
+7\. Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
 
 > Your response.
 
-7. Paste these questions into a new Google Doc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<small>Opening scene from The Shining. Music by Wendy Carlos</small>
 
 
 
+8\. Fork this repository into your own Github account and enable Github Pages.
+9\. Paste the public link (the live github.io URL) to this DevLog below.
 
-8. Watch Synthesizer Basics: Amplitude, Oscillators, Timbre and describe
+> Your response.
+
+10\. Paste the public link (the live github.io URL) to this DevLog into Moodle before (by 8am) the next class.
+
 
 
 
