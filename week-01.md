@@ -1,6 +1,5 @@
 [<](README.md)
 
-<!-- COPY / USE THIS TEMPLATE FOR EACH WEEK -->
 
 
 
@@ -9,21 +8,29 @@
 
 ## Outcomes 
 
+<!-- 
+Using the backslash preserves the list number 
+https://stackoverflow.com/a/50916345/441878 
+-->
+
+
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad link to it here.
 
 > Link to your (publicly-accessible) https://tinkercad.com file
 
-2\. Share the math you did that uses Ohm's law to find the resistor value and
+2\. Share your maths using Ohm's law to find the resistor value.
 
 > Your response
 
 
-3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in Pearson. 
+3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in Pearson. Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-> Write a comment on one of Pearson's phrases that speaks to you.
+> Your response.
 
-3. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced in this chapter. In 2-3 sentences, describe the influence of one genre from this guide on your current musical listening habits.
+
+
+3. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced in this chapter. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
 > Your response.
 
