@@ -16,42 +16,45 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
-> Link to your (publicly-accessible) https://tinkercad.com file
+- Link to your (publicly-accessible) https://tinkercad.com file
+
+
 
 2\. Share your maths using Ohm's law to find the resistor value for your Tinkercad circuit.
 
-> Your response
+- Your response
 
 
-3\. Read 📚Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 (15-up to p38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf?srsltid=AfmBOoq4GO2jJvBqGwuOg_GRLhhusTVfQubcPO9hBxBkzfku_NrFVPZW) by Pearson. Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-> Your response.
+3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
+
+- Your response
 
 
 
 4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
-> Your response.
+- Your response
 
 
 
-5\. Watch this introduction to [Synthesizing with Moog](https://www.youtube.com/watch?v=waN4owHeyaQ) (15:33). Describe one of Robert Moog's contributions to electronic music.
+5\. 🎬 Watch this introduction to [Synthesizing with Moog - Lesson 1: Listening](https://www.youtube.com/watch?v=waN4owHeyaQ) (15:33). Describe one of Robert Moog's contributions to electronic music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waN4owHeyaQ?si=d4Lc3SgvF8frKHgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> Your response.
+- Your response
 
 
 
 6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
-> Your response.
+- Your response
 
 
 
-7\. Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
+7\. 🎬 Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
 
-> Your response.
+- Your response
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -60,13 +63,23 @@ https://stackoverflow.com/a/50916345/441878
 
 
 
-8\. Fork this repository into your own Github account and enable Github Pages.
+8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
+
+- Your response
+
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-> Your response.
+- Your response
 
-10\. Paste the public link (the live github.io URL) to this DevLog into Moodle before (by 8am) the next class.
+
+10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
+
+
+
+
+
+
 
 
 
