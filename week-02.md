@@ -1,6 +1,6 @@
 [<](README.md)
 
-# Week 02
+# Week 02 - DevLog
 
 
 
