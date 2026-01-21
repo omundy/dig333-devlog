@@ -4,6 +4,8 @@
 
 _Hello world!_
 
+![dog](dog.webp)
+
 
 ## Outcomes 
 
