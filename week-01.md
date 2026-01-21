@@ -2,8 +2,13 @@
 
 # Week 01 - DevLog
 
-**Hello world
-**
+**Hello world**
+
+
+![cat](cat.webp)
+
+
+
 
 ## Outcomes 
 
