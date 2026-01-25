@@ -34,13 +34,15 @@ R = 350 Ohms
 
 3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+**Phrase:** *When you give an electron a nudge in a good conductor, the electrons will continue to hop around as long as you keep nudging. A bad conductor (also called a resistor), on the other hand, will need a much stronger nudge. If you nudge the electrons with more vigor, you’ll give those electrons a little more oomph. The worse a conductor a material is, the more you’ll have to nudge to get the same result. The scientific name for oomph is—wait for it—voltage.*
+
+I find this explanation of the function of voltage to be especially potent. Its description of how voltage interacts with the environment depending on the effectiveness of the conductor gave me a physical analogy to the function of resistance. Imagining resistance as the difficulty of electrons to spread between other atoms is very helpful. Air is intuitively a much worse conductor than salt water or copper, so it makes sense that the voltage would need to be higher to give the electrons more "oomph."
 
 
 
 4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
 
-- Your response
+I am a passionate fan of Techno and all of its variants, especially Hard Techno. I primarily listen to artists from the present day and 2010s, however, there are many songs from previous eras that get recycled as samples. The genre's characteristic sawtooth kick makes the music feel as though it mirrors my heartbeat with energy and dance.
 
 
 
