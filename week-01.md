@@ -20,13 +20,17 @@ https://stackoverflow.com/a/50916345/441878
 
 - Link to your (publicly-accessible) https://tinkercad.com file
 
+https://www.tinkercad.com/things/kh9Q8O9P3F4-led-9v-battery
 
 
 2\. Share your maths using Ohm's law to find the resistor value for your Tinkercad circuit.
 
 - Your response
 
-
+R = V / I
+R = (9-2)V / 0.02A
+R = 7/0.02
+R = 350 Ohms
 
 3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
