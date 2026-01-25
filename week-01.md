@@ -50,13 +50,12 @@ I am a passionate fan of Techno and all of its variants, especially Hard Techno.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/waN4owHeyaQ?si=d4Lc3SgvF8frKHgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Your response
-
+Robert Moog was a pioneer in the adoption of synthesisers for music production. His novel method of voltage control allowed synthesisers to be played like an instrument. His first synthesisers were entirely modular and allowed musicians to create custom set-ups with self-defined quantities of oscilators and envelopes. When he noticed that musicians tended to gravitate to a certain set of configurations, he created a product based around those configurations to be used in a portable manner.
 
 
 6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
-- Your response
+Microphones, speakers, and ears all convert between air movements to electrical signals, some just specialise in certain directions of conversion. However, as displayed in the "Speaker as microphone" experiment, a speaker can indeed be used as a microphone, albeit not a very good one, so long as you apply voltage signal to the back of the speaker, it can be used to monitor the motion of the drum and convert that into electrical signal due to the movement of the copper wire relative to the magnet.
 
 
 
