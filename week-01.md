@@ -14,7 +14,8 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
-- This is the link to my TinkerCad file: https://www.tinkercad.com/things/5BKPF1dmEkf/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=NNx_EzdIgppr4zJTY_xKjR2p-cTB3LXU7MTO6eR9X54
+- This is the link to my TinkerCad file:
+- https://www.tinkercad.com/things/5BKPF1dmEkf/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=NNx_EzdIgppr4zJTY_xKjR2p-cTB3LXU7MTO6eR9X54
 
 
 
@@ -51,7 +52,7 @@ https://stackoverflow.com/a/50916345/441878
 
 7\. 🎬 Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
 
-- I love the Tron Score by Wendy Carlos (https://youtu.be/TPF7CXUgcus?si=SD88I2nAnaZ4ZvfR). This is because, I like the way she incorporates both the synthesizer and a live orchestra in the recording of the score, and what's even cooler is she recorded it with the London Philharmonic Orchestra. 
+- I love the Tron Score by Wendy Carlos ( https://youtu.be/TPF7CXUgcus?si=SD88I2nAnaZ4ZvfR ). This is because, I like the way she incorporates both the synthesizer and a live orchestra in the recording of the score, and what's even cooler is she recorded it with the London Philharmonic Orchestra. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,12 +63,12 @@ https://stackoverflow.com/a/50916345/441878
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- (https://github.com/mawiignenntiador/dig333-devlog)
+- ( https://github.com/mawiignenntiador/dig333-devlog )
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- (https://mawiignenntiador.github.io/dig333-devlog/)
+- ( https://mawiignenntiador.github.io/dig333-devlog/ )
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
