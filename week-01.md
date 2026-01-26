@@ -60,13 +60,8 @@ Microphones, speakers, and ears all convert between air movements to electrical 
 
 
 7\. 🎬 Explore cinematic scores and other works created by [Wendy Carlos](https://www.google.com/search?q=wendy+carlos+filmography) using a Moog. Paste a link to an online example and describe what you like about the composition, performance, connection to themes in the film, etc. (2-3 sentences) 
-
-- Your response
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiV3J_e977Q?si=QViadi5t0g_l8zr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<small>Opening scene from The Shining. Music by Wendy Carlos</small>
+https://www.youtube.com/watch?v=P5RcNuQXuR4
+The soundtrack of Tron (1982) by Wendy Carlos contains powerful pieces of music that use sounds reminiscent of traditional instruments like the violin or piano alongside synth noises. Their pairing highlights the theme of the movie as the main character is transported into the mainframe of a computer to fight software to escape. Synth noises evoke the image of a computer while the traditional instruments keep the character connected to his manifest body in the physical world.
 
 
 
