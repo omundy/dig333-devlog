@@ -67,12 +67,12 @@ The soundtrack of Tron (1982) by Wendy Carlos contains powerful pieces of music 
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- Your response
+https://github.com/kyylb/dig333-devlog/blob/main/week-01.md
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- Your response
+https://kyylb.github.io/dig333-devlog
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
