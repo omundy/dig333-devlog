@@ -23,13 +23,19 @@ https://stackoverflow.com/a/50916345/441878
 
 2\. Create a three-LED circuit on Tinkercard and measure Voltage Drop and amps using their multimeters ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). 
 
-- Link to your (publicly-accessible) https://tinkercad.com file
+https://www.tinkercad.com/things/j1s7003LCWM-new-circuit-with-3-leds
 
 
 
 3\. 📚 Read Chapter 02 - Musical Electricity for Electrophobes (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-- Your response
+"Thwacking a ruler while holding one end against a table sounds only so-so
+when you listen to it with your ears (or if you record it with a traditional
+microphone). With a piezo pickup underneath, however, it produces an
+earth-shakingly deep bass tone—perfect for your forthcoming late-’90s-
+inspired acid-trance-stomp EP."
+
+This particular phrase spoke to me because it shows how the impact of everyday actions entirely depends on scale. The thwack of the ruler against a table is only a mild and very fleeting sound to us, but creates fierce vibrations in a piezo pickup such that it creates a much more impactful bass.
 
 
 
@@ -39,18 +45,18 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
-- Add video documentation of a performance of your musical instrument.
-
+https://youtube.com/shorts/92TI0V6DyMU?si=RfnlLsn1dHVYCQ3y
 
 
 6\. 📚 Read Chapter 03 - The Hello World Oscillator (46-59) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). In your own words, why should you be careful with capacitors?
 
-- Your response
+If you use a capacitor with a figurative bucket too small to handle the high voltage from the circuit, then the capacitor will explode. This is very dangerous, and therefore you should be careful.
 
 
 
 7\. What is the difference between an analog and digital component?
 
+Analog components are continuous and mechanical. Digital components take discrete values.
 
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.
