@@ -17,7 +17,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Create an LED circuit with a ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). Record the voltage drop from each step and amps used in the circuit: 
 
-- Your response
+8.97 V -> 6.90 V -> 0 V
 
 
 
@@ -61,16 +61,16 @@ Analog components are continuous and mechanical. Digital components take discret
 
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.
 
-- Your response
+I'm not sure but I assume that we are going to do this in class.
 
 
 
 
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
 
-- The volume of the sound: ______________ 
-- The musical note played: ______________
-- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: ______________
+- The volume of the sound: Amplitude 
+- The musical note played: Pitch
+- The sonic signature of a sound distinguishing a note played on one instrument from the same note played on a different instrument: Timbre
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH4FNmoN7Z0?si=the6122ZQvX1Yjif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -84,7 +84,8 @@ Analog components are continuous and mechanical. Digital components take discret
 
 > The opening synth keyboard melody in Com Truise [Galactic Melt](https://www.youtube.com/watch?v=iOhpjcvtyVE&list=PLhpnnpt3tw-TQ102FLVMJabccj51wEeUH) uses a very short attack, making it punchy and alive. The base synth (`1:30`) uses a slower attack, adding to its weight and helping to ground the tempo. —Owen Mundy
 
-- Your response
+https://youtu.be/BY1qkoUhcWQ?si=aYaM991bfbTF4gey&t=10
+at 10 seconds, the main synth has a fast attack and slow decay.
 
 
 
