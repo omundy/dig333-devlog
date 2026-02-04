@@ -53,8 +53,10 @@ https://stackoverflow.com/a/50916345/441878
 8\. [👉Activity: Analyze square waveforms with an oscilloscope](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g3b8d920f8b7_0_49#slide=id.g3b8d920f8b7_0_49). On the Snap-on Waveform demo board, which pot controls variable voltage (duty cycle) and which controls variable frequency (PWM slides)? What is a common use of each? Post a photo of your testing.
 
 - I looked at the slides but I was wondering if we were supposed to go to VAC 212 on our own or wait till class time.
+7\. Save your file and commit all your work in this repo.
 
 
+8\. Update from origin/main to pull new changes from Owen's branch.
 
 
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
