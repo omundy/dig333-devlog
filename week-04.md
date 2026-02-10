@@ -88,7 +88,7 @@ Replace this line with code from "Challenge: Add More Questions" (32)
 
 
 
-10\. Post sketches for your musical instrument and a parts list.
+10\. Post sketches for your musical instrument concept along with a potential parts list.
 
 
 
