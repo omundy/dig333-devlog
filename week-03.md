@@ -73,11 +73,9 @@ https://www.youtube.com/watch?v=c3udLCvoCC0
 
 
 
-10\. List one thing you learned in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
+10\. 🎬 Watch [Synthesizing with Moog - Lesson 3: Vibrations](https://www.youtube.com/watch?v=6VFJzY_GfJU) (14:33). How might you change your square wave to get a triangle wave?
 
 - I learnt how affecting the width of a square wave affects the quality of sound produced. I saw that if you move the width forward, a slightly higher pitch is played and superimposed with the main key pitch, and similarly with the width moved backward, a sound with a slightly lower frequency is played and superimposed with the main key pitch. 
-
-
 
 
 
