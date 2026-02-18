@@ -16,7 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Philip K. Dick Pay for the Printer (1956) and The Preserving Machine (1953). Write a reflection below:
 
-- I was unable to find the books online or access them through the reading link provided in the schedule. 
+- I found the stories to be very interesting, particularly the Preserving machine. The idea that an artform could take the shape of an animal based off the qualities that artform portrayed was an idea I found to be extremely fascinating. For example, say the work was done with paintings, you put in the Great Wave off Kanagawa and it produced an elephant. 
 
 
 
@@ -101,7 +101,7 @@ else:
 
 
 10\. Post sketches for your musical instrument and a parts list.
-- I am currently still in the planning phase and plan to complete selection of my project by tomorrow night (02/16/26) and will update the devlog when this is completed
+- ![My Current Project Design](IMG_1591.jpeg)
 
 
 
