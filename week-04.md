@@ -16,14 +16,14 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. 📚Read Philip K. Dick Pay for the Printer (1956) and The Preserving Machine (1953). Write a reflection below:
 
-- Your response
+- I found the stories to be very interesting, particularly the Preserving machine. The idea that an artform could take the shape of an animal based off the qualities that artform portrayed was an idea I found to be extremely fascinating. For example, say the work was done with paintings, you put in the Great Wave off Kanagawa and it produced an elephant. 
 
 
 
 
 2\. Connect a concept from [Synthesizing with Moog | Lesson 4: Resonance](https://www.youtube.com/watch?v=6spVzRqOsVw) to an aspect of the interface in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
 
-- Your response
+- In the Moog video, I gained an understanding for the using of filters for frequency cut offs, and gained a better understanding for how useful they are with regards to sound synthesis. WHile watching the video I had an idea with regards to band pass filters and notch filters. I was wondering based of the graph that band pass filter gave, could you recreate it by using an rlc circuit (resistance, inductance, capacitive) in parallel with varying current input, and for notch filters, the same type of circuite but with the inductor and capacitor in parallel. 
 
 
 
@@ -36,7 +36,7 @@ https://stackoverflow.com/a/50916345/441878
 
 p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World!" Add documentation below to show you can save and run python code on the Pico.
 
-- Your response
+- I was able to run the python file on thonny using the micropython for pico w on thonny. I did this by copying the pico w 202 .uf2 file from the raspberry set up page and then installing python onto my laptop and then configuring it to run the micropython file through the interpreter. 
 
 
 
@@ -44,7 +44,7 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 4\. What is the difference between a microcontroller and a regular computer? (Chapter 1)
 
-- Your response
+- A microcontroller is processor designed to run specific tasks on a printed circuit board housing while a regular computer is a processor designed to run multiple concurrent tasks at the same tme. 
 
 
 
@@ -53,7 +53,8 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 
 5\. 📚Read Chapter 2 (20–33) Programming with MicroPython. Summarize steps to program the Pico from your computer.
 
-- Your response
+- Install the Thonny Python IDE
+- In the interpretor section, select micropython for raspberry pi pico
 
 
 
@@ -61,20 +62,32 @@ p.20–25 - Read and follow tutorial to install Thonny and run the "Hello, World
 6\. 📚Read Chapter 2: "Challenge: New Message" (26) - You can display programming code in a markdown file using three backticks, a new line, and then three more backticks on the following line. 
 
 ```python
-Replace this line with code from "Challenge: New Message" (26)
+print("Hello World! \nI'm Tony")
 ```
 
 
 7\. Chapter 2: "Challenge: Loop the Loop" (26)
 
 ```python
-Replace this line with code from "Challenge: Loop the Loop" (29)
-```
+for i in range(10):
+  print("Loop number", i)
+print("Loop finished!")
+``` 
 
 8\. Chapter 2: "Challenge: Add More Questions" (26)
 
 ```python
-Replace this line with code from "Challenge: Add More Questions" (32)
+user_name = input("What is your name? ")
+if (user_name != "Clark Kent"):
+    print("You are not Superman - try again!")
+print("You are Superman!")
+
+user_input = eval(input("Select a random number? "))
+
+if (user_input < 5):
+    print("The given number is less than 5")
+else:
+    print ("The given number is greater than 5")
 ```
 
 
@@ -82,14 +95,13 @@ Replace this line with code from "Challenge: Add More Questions" (32)
 
 
 
-9\. 📚Read Chapter 3 (34–43) Physical Computing. How many Ground pins are on the Pico?
+9\.  📚Read Chapter 3 (34–43) Physical Computing. How many Ground pins are on the Pico?
+- There are 8 ground pins on the Pico. 
 
 
 
-
-
-10\. Post sketches for your musical instrument concept along with a potential parts list.
-
+10\. Post sketches for your musical instrument and a parts list.
+- ![My Current Project Design](IMG_1591.jpeg)
 
 
 
