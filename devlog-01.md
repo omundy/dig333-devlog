@@ -1,6 +1,6 @@
 [<](README.md)
 
-# Week 01 - DevLog
+# DevLog 01
 
 **Hello world**
 
