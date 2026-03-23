@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=c3udLCvoCC0
 ## Other experiments
 
 <!-- 
-Share details about other electronic experiments you are working on this week?
+Share other electronic experiments from this week?
 -->
 
 - 

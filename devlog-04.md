@@ -106,7 +106,7 @@ Replace this line with code from "Challenge: Add More Questions" (32)
 ## Other experiments
 
 <!-- 
-Share details about other electronic experiments you are working on this week?
+Share other electronic experiments from this week?
 -->
 
 - 

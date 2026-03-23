@@ -2,7 +2,7 @@
 
 # DevLog 06
 
-
+> Flash Raspberry Pi OS onto an SD card, SSH into your Pi, and set it up.
 
 
 ## Outcomes 
@@ -11,11 +11,6 @@
 Using the backslash preserves the list number 
 https://stackoverflow.com/a/50916345/441878 
 -->
-
-
-
-
-omundy/learn-computing/command-line 
 
 
 1\. Follow the [Command Line tutorial](https://omundy.github.io/learn-computing/slides/command-line.html). Watch [
@@ -88,7 +83,7 @@ python hello.py
 ## Other experiments
 
 <!-- 
-Share details about other electronic experiments you are working on this week?
+Share other electronic experiments from this week?
 -->
 
 - 

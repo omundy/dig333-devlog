@@ -66,7 +66,7 @@ https://stackoverflow.com/a/50916345/441878
 ## Other experiments
 
 <!-- 
-Share details about other electronic experiments you are working on this week?
+Share other electronic experiments from this week?
 -->
 
 - 
